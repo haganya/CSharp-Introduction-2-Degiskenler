@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Degiskenler\20170805Con_Degiskenler\bin\Debug\20170805Con_Degiskenler.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Degiskenler\20170805Con_Degiskenler\bin\Debug\20170805Con_Degiskenler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Degiskenler\20170805Con_Degiskenler\bin\Debug\20170805Con_Degiskenler.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Degiskenler\20170805Con_Degiskenler\obj\Debug\20170805Con_Degiskenler.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Degiskenler\20170805Con_Degiskenler\obj\Debug\20170805Con_Degiskenler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Degiskenler\20170805Con_Degiskenler\obj\Debug\20170805Con_Degiskenler.pdb
