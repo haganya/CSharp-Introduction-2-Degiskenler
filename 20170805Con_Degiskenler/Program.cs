@@ -21,8 +21,8 @@ namespace _20170805Con_Degiskenler
              * sbyte-> -128 +127 arası değer tutabilir.
              * short -> 2byte, -32768 +32767 arasında değer tutar
              * ushort-> 0-65535 arasındaki değerleri tutar.
-             * int -> 4byte, -1,14 milyar +1,14 milyar arasındaki değerleri tutar. Integer varsayılan tamsayı tipidir.
-             * uint -> 0->2,28 milyar arasındaki değerleri tutar.
+             * int -> 4byte, -2,147 milyar +2,147 milyar arasındaki değerleri tutar. Integer varsayılan tamsayı tipidir.
+             * uint -> 0->4,29 milyar arasındaki değerleri tutar.
              * long -> -çok => +çok arası değer tutar
              * ulong -> 0 => çok (19 hane) değer tutar.
              * 
